@@ -38,3 +38,12 @@ This project demonstrates how to deploy a multi-cloud infrastructure using Terra
 
 ## Terraform Apply
 ![image](https://github.com/user-attachments/assets/8197e601-798b-4717-9813-85b4fe3c4ae0)
+
+## Lessons Learned
+- **Multi-Cloud Challenges**: Managing resources across AWS and GCP required careful planning and testing.
+- **Terraform Debugging**: Debugging the Debian image issue taught me the importance of verifying resource availability.
+
+## Future Improvements
+- Add **Kubernetes clusters** to both AWS (EKS) and GCP (GKE).
+- Implement **Infrastructure as Code (IaC) testing** using tools like Terratest.
+- Add **cost optimization** using AWS Cost Explorer and GCP Billing Reports.
