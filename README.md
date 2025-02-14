@@ -22,7 +22,7 @@ This project demonstrates how to deploy a multi-cloud infrastructure using Terra
    terraform plan
    terraform apply
 
-4. Destroy the infrastructure (optional):
+4. Destroy the infrastructure (get rid of the resources):
    ```bash
    terraform destroy
 
