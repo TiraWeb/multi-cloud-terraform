@@ -41,7 +41,6 @@ This project demonstrates how to deploy a multi-cloud infrastructure using Terra
 
 ## Lessons Learned
 - **Multi-Cloud Challenges**: Managing resources across AWS and GCP required careful planning and testing
-- **Terraform Debugging**: Debugging the Debian image issue taught me the importance of verifying resource availability
 
 ## Future Improvements
 - Add **Kubernetes clusters** to both AWS (EKS) and GCP (GKE)
