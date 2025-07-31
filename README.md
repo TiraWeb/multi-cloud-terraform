@@ -41,7 +41,7 @@ This project demonstrates how to deploy a multi-cloud infrastructure using Terra
 
 ## Lessons Learned
 - **Multi-Cloud Challenges**: Managing resources across AWS and GCP required careful planning and testing
-- - **AMI Image Issue**: Planning of AMI to prevent setup errors
+- **AMI Image Issue**: Planning of AMI to prevent setup errors
 
 ## Future Improvements
 - Add **Kubernetes clusters** to both AWS (EKS) and GCP (GKE)
